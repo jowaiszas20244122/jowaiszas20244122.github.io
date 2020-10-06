@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Great big font sizes</title>
+        <style>
+            .big {font-size:12px;
+                
+            }
+            
+            .bigger { font-size:1.12;
+                
+            }
+        </style>
+    </head>
+    <body>
 
-You can use the [editor on GitHub](https://github.com/jowaiszas20244122/jowaiszas20244122.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Great Big Words</h1>
+<h2>by Michael Mark & Tom Chapin</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>When I was a little kid,
+a "<em class="big">diminutive juvenile</em>," <br>
+I liked my folks to read to me,
+I was an <em class="big">"eager bibliophile."</em> <br>
+Now I love words for how they sound <br>
+And how they <em class="big">"communicate."</em> <br>
+Perhaps I should explain myself,
+that is, <em class="big">"elucidate."</em> <br>
+Great big words, I like <em class="big">big</em> words. <br>
+Letter by letter, the <em class="bigger">bigger</em> the better <br>
+Great big words. La la la la la la la la la la!</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jowaiszas20244122/jowaiszas20244122.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </body>
+</html>
